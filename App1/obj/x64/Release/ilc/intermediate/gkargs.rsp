@@ -1,0 +1,7 @@
+﻿"C:\Users\root\Desktop\App1\App1\obj\x64\Release\ilc\in\App1.exe"
+/Lib:"C:\Users\root\Desktop\App1\App1\obj\x64\Release\ilc\in"
+/Lib:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.compiler\2.2.8-rel-28605-00\tools\x64\ilc\lib\Private"
+/WinMD:"C:\Users\root\Desktop\App1\App1\obj\x64\Release\ilc\in\WinMetadata\Windows.winmd"
+/VSTelemetrySessionSettings:"{"IsOptedIn":true,"HostName":"Dev14","AppInsightsInstrumentationKey":"f144292e-e3b2-4011-ac90-20e5c03fbce5","AsimovInstrumentationKey":"AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70","AppId":1001,"UserId":"dd5bc601-fc87-4860-a8a2-f76aa3f0cf06","Id":"1813748d-8635-4175-8252-ea11b55c7082","ProcessStartTime":637324800001484098}"
+/RdXmlPath:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\2.2.8-rel-28605-00\tools\LibraryXML"
+/RunOnlyPreDR
